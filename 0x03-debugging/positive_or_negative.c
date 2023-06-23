@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * main - entry point
+ * positive_or_negative - function that prints positive or negative no
+ * @i: the variable to print
+ */
 
 void positive_or_negative(int i)
 {
